@@ -25,9 +25,3 @@ Conforme eu fui adquirindo experiência na área, descobri que tinha uma paixão
 
 Também gosto muito de investimentos, do mercado financeiro e de economia.
 
-hammer_and_wrench  Tech Stack
-computer  Front-end:
-HTML CSS JavaScript TypeScript React React Vue Gatsby GraphQL Jest
-
-gear  Back-end e banco de dados:
-Node.js NestJS MongoDB PostgreSQL GraphQL Jest
